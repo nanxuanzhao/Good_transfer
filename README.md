@@ -33,7 +33,7 @@ Nanxuan Zhao*	Zhirong Wu*	Rynson W.H. Lau	Stephen Lin
 | Unsupervised | ImageNet         | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/moco_v2_imagenet.pth) |
 |              | ImageNet-10%     | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/moco_v2_imagenet1over10.pth) |
 |              | ImageNet-100     | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/moco_v2_imagenet100.pth) |
-|              | Places           | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/moco_v2_palces.pth) |
+|              | Places           | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/moco_v2_places.pth) |
 |              | CelebA           | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/moco_v2_celeba.pth) |
 |              | COCO             | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/moco_v2_coco.pth) |
 |              | Synthia          | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/moco_v2_synthia.pth) |
