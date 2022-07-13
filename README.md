@@ -2,8 +2,9 @@
 
 
 
-**What Makes Instance Discrimination Good for Transfer Learning?**  
+**[What Makes Instance Discrimination Good for Transfer Learning?](https://arxiv.org/abs/2006.06606)**  
 Nanxuan Zhao*	Zhirong Wu*	Rynson W.H. Lau	Stephen Lin
+
 
 
 
@@ -37,7 +38,7 @@ Nanxuan Zhao*	Zhirong Wu*	Rynson W.H. Lau	Stephen Lin
 |              | CelebA           | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/moco_v2_celeba.pth) |
 |              | COCO             | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/moco_v2_coco.pth) |
 |              | Synthia          | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/moco_v2_synthia.pth) |
-| Supervised   | ImageNet         | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/supervised_synthia.pth) |
+| Supervised   | ImageNet         | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/supervised_imagenet.pth) |
 |              | ImageNet-10%     | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/supervised_imagenet1over10.pth) |
 |              | ImageNet-100     | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/supervised_imagenet100.pth) |
 |              | Places           | [model](https://frontiers.blob.core.windows.net/pretraining/checkpoints/pil_pretrained_models/good_transfer/supervised_places.pth) |
